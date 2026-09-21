@@ -5,7 +5,7 @@ demonstration repo for R installation and agentic use of R
 
 - start a github codespace
 - reference your my-noble-r repository as the basis for the codespace
-- wait until the terminal
+- wait until the terminal is ready for your input
 - `wget https://tinyurl.com/maker260`
 
 After the file is obtained
