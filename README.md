@@ -16,3 +16,9 @@ This will take some time (~3 minutes) to install a binary version of R from
 Eddelbuettel's r2u system.
 
 Once it completes test that R is running.
+
+To acquire the RDS serialization of World Bank developmental indicators:
+
+- `wget https://tinyurl.com/worlddevrds`
+
+We will import and investigate this dataset by hand and "agentically". 
